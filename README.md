@@ -1,0 +1,1 @@
+# compile-time-static-table-generation-with-templates
